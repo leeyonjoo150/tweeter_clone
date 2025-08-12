@@ -10,8 +10,8 @@ st.set_page_config(
 )
 
 # 헤더 영역
-st.title("🐦 프롬프트 트위터")
-st.markdown("**유용한 LLM 프롬프트를 공유하는 공간입니다**")
+st.title("🐦 프롬프트 트위터 v1.1")  # 버전 추가
+st.markdown("**유용한 LLM 프롬프트를 공유하는 공간입니다** ✨")  # 이모지 추가
 
 # 사이드바 - 네비게이션
 st.sidebar.title("📋 메뉴")
